@@ -34,7 +34,7 @@ You are required to model the demand for shared bikes with the available indepen
 5. Results
 
 ## Conclusions
-
+We are able to generate the linear regression model with R-squared value 0.801 to predict the bike sharing behaviour
 
 ## Technologies Used
 - Python 3.*
